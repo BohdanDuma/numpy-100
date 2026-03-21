@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 broken
+feat/new_numpy_practice
